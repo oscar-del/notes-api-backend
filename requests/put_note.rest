@@ -1,0 +1,7 @@
+PUT  http://localhost:3001/api/notes/63adf701a015b0b2ae69e76b
+Content-Type: application/json
+
+{
+    "content": "Hola MongoDB Actualizacion II",
+    "important": true
+}
